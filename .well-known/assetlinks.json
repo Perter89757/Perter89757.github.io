@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ccm.attendancetool",
+    "sha256_cert_fingerprints":
+    ["14:BB:9F:5C:29:05:5F:3E:6C:9A:B1:EE:70:53:A1:87:EE:9B:F4:50:49:D0:64:4A:B7:23:B7:D3:19:F3:05:D2"]
+  }
+}]
