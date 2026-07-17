@@ -1,9 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.ccm.attendancetool",
-    "sha256_cert_fingerprints":
-    ["14:BB:9F:5C:29:05:5F:3E:6C:9A:B1:EE:70:53:A1:87:EE:9B:F4:50:49:D0:64:4A:B7:23:B7:D3:19:F3:05:D2"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.konsonsmx.iqdii",
+      "sha256_cert_fingerprints": [
+        "A9:58:C6:8E:8A:84:58:58:EA:37:7D:1F:14:AD:CD:4C:67:0E:97:60:7F:3D:81:0A:0C:6D:9F:71:26:AC:D2:5D"
+      ]
+    }
   }
-}]
+]
